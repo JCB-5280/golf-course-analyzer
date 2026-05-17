@@ -1,14 +1,14 @@
-# Strategic Roadmap: Aggressive 180-Day Path to Market Entry
+# Strategic Roadmap: Aggressive 180-Day Path to the Predictive Edge
 
-To capitalize on the current market inflection point, the GCA team must execute a results-oriented implementation plan focused on rapid validation and ROI delivery.
+To capitalize on the shift toward predictive analytics in sports, the GCA team must execute a results-oriented implementation plan focused on model validation and high-interactivity visualization.
 
 ### Immediate Actions:
-1.  **Stakeholder Validation:** Conduct focused interviews with 5 "Premier" facilities to finalize MVP feature weighting and ROI benchmarks.
-2.  **Architectural Blueprint:** Finalize the cloud-native architecture (Go/React/AWS) with a primary focus on SOC2 security and high-availability scaling.
-3.  **High-Impact Prototype:** Deliver a functional prototype of the Core Revenue Management dashboard within 30 days to secure early-adopter "Founding Partner" commitments.
-4.  **Resource Allocation:** Onboard the core engineering and design team (4 Full-stack, 1 UX) to initiate the 180-day development sprint.
+1.  **Player & Coach Validation:** Conduct focused interviews with 10 performance coaches and 20 competitive golfers to finalize TimesFM forecasting weighting.
+2.  **Predictive Architecture Blueprint:** Finalize the AI-native architecture (Python/Dash/TimesFM) with a primary focus on data ingestion quality and sub-second UI responsiveness.
+3.  **High-Impact Prototype:** Deliver a functional prototype of the Dash-powered Stat Submission UI within 30 days to initiate "Founding Player" beta testing.
+4.  **Resource Allocation:** Onboard the core data science and Dash engineering team (1 Data Scientist, 2 Dash Devs) to initiate the 180-day development sprint.
 
 ### Success Milestones:
-*   **Month 2:** Technical Design Approval & Pilot Site Contracting.
-*   **Month 5:** Internal Alpha Release & Security Audit Initiation.
-*   **Month 6:** Pilot Launch & Player Beta Initiation.
+*   **Month 2:** TimesFM Model Prototype Approval & Data Integrity Spec Finalization.
+*   **Month 5:** Internal Beta (Predictive Core) & Prediction Accuracy Audit.
+*   **Month 6:** Global Player Beta Launch & Coach Platform Initiation.

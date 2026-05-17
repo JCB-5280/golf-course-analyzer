@@ -1,12 +1,12 @@
-# 4. Scope: Focused on High-Value Digital Transformation
+# 4. Scope: Focused on Predictive Intelligence and Visualization
 
-### 4.1 In-Scope (Phase 1: The Core Value Drivers)
-*   **Revenue Management:** Real-time tee-sheets, dynamic pricing, and automated membership billing.
-*   **Operational Intelligence:** Predictive revenue modeling, course heatmaps, and player behavior trends.
-*   **Agronomic Precision:** IoT soil sensor integration, satellite-based NDVI mapping, and chemical logging.
-*   **Player Performance:** Computer-vision swing analysis and GPS-based shot mapping.
-*   **Enterprise Security:** Role-based access control (RBAC) and end-to-end encryption.
+### 4.1 In-Scope (Phase 1: The Predictive Core)
+*   **Stat Submission Engine:** Dash-powered UI for rapid manual entry and CSV/API-based data uploads.
+*   **Predictive Modeling:** TimesFM-driven performance forecasting (Handicap, GIR, Scoring Consistency).
+*   **Interactive Dashboards:** Strategic heatmaps, dispersion charts, and performance trends using Plotly.
+*   **Data Integrity Layer:** Automated validation and anomaly detection for user-uploaded data.
+*   **Mobile-First Design:** Responsive interfaces optimized for on-course and post-round review.
 
 ### 4.2 Out-of-Scope (Ensuring Strategic Focus)
-*   **Hardware Manufacturing:** We certify and partner with IoT leaders rather than build custom hardware.
-*   **Ancillary Management:** F&B kitchen management and on-site physical security (CCTV) are handled via deep integrations with existing providers.
+*   **Facility Management (ERP):** Tee-sheet management, booking, billing, and POS systems are removed to focus on player performance.
+*   **Hardware Manufacturing:** We focus on software analytics, integrating with existing GPS and sensor hardware via data uploads.

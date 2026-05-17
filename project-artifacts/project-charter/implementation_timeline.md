@@ -1,13 +1,13 @@
-# 6. Implementation Timeline: Aggressive 6-Month Path to Value
+# 6. Implementation Timeline: Aggressive Path to Predictive Value
 
-### Phase 1: Design & Alignment (Months 1-2)
-*   **Goal:** Finalize functional specs and high-fidelity UX prototypes.
-*   **Milestone:** Board Approval of Technical Design.
+### Phase 1: Predictive Design & Prototype (Months 1-2)
+*   **Goal:** Finalize TimesFM architecture and Dash UI prototypes.
+*   **Milestone:** Approved Data Quality & Forecasting Spec.
 
-### Phase 2: Core Engineering (Months 3-5)
-*   **Goal:** Build backend engine and Core Ops UI.
-*   **Milestone:** Internal Alpha Release.
+### Phase 2: Core Engine & UI Build (Months 3-5)
+*   **Goal:** Build the Stat Submission UI and the TimesFM forecast engine.
+*   **Milestone:** Internal Beta (Player Analytics Alpha).
 
-### Phase 3: Pilot Execution (Month 6)
-*   **Goal:** Deploy to 3 premier sites and initiate player beta.
-*   **Milestone:** Commercial Launch Readiness.
+### Phase 3: Market Launch & Scaling (Month 6)
+*   **Goal:** Launch to first 10,000 players and integrate coach feedback.
+*   **Milestone:** Global Launch Readiness.

@@ -1,10 +1,9 @@
-# 5. Stakeholder Matrix: Aligning for Execution Excellence
+# 5. Stakeholder Matrix: Aligning for Performance Excellence
 
 | Role | Primary Responsibility | Success Driver |
 |---|---|---|
-| **Project Sponsor** | Strategic alignment and capital allocation. | Demonstrated ROI and market impact. |
-| **Product Manager (Prji)** | Roadmap strategy and cross-functional delivery. | On-time delivery of the 180-day MVP. |
-| **Lead Architect** | System design and technical performance. | 99.9% uptime and SOC2 compliance. |
-| **Dev Team** | Full-stack engineering and DevOps. | High sprint velocity and code quality. |
-| **UI/UX Designer** | User-centric interface design. | High user satisfaction and adoption scores. |
-| **Sustainability Consultant** | ESG validation and impact reporting. | Credibility and accuracy of resource savings. |
+| **Project Sponsor** | Strategic alignment and market positioning. | User growth and prediction accuracy. |
+| **Product Manager (Prji)** | Roadmap strategy and predictive feature delivery. | On-time delivery of the Dash/TimesFM MVP. |
+| **Data Scientist** | TimesFM model tuning and quality check logic. | Prediction accuracy and data integrity. |
+| **Lead Developer** | Dash interface architecture and mobile responsiveness. | UI performance and user adoption. |
+| **UI/UX Designer** | Player-centric interface design. | High completion rates for data entry. |

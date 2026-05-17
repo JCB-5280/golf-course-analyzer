@@ -1,6 +1,6 @@
-# 2. Strategic Objectives: Driving Profitability and Sustainability
+# 2. Strategic Objectives: Driving Performance and Adoption
 
-*   **Rapid Market Entry:** Deliver a high-impact MVP (Operations + Analytics) within 180 days to capture early-mover advantage.
-*   **Operational Alpha:** Enable facility managers to increase tee-time utilization by 15-20% through dynamic pricing and intelligent inventory management.
-*   **Resource Efficiency:** Realize a 10-15% reduction in water and chemical costs, proving that sustainability is a primary driver of profitability.
-*   **Scalable Growth:** Establish a platform capable of supporting 500+ facilities within 24 months, maintaining 99.9% uptime and SOC2 security integrity.
+*   **Predictive Accuracy:** Deliver a forecasting engine (TimesFM) that achieves >90% accuracy in handicap and scoring trend predictions within the first 180 days.
+*   **Rapid Adoption:** Capture 50,000+ active players within the first 12 months through a frictionless, Dash-powered user experience.
+*   **Coach Integration:** Establish GCA as the primary data platform for 500+ performance coaches, driving student improvement through objective data.
+*   **Scalable Intelligence:** Build a data pipeline capable of processing 10M+ round uploads annually with automated quality checks.

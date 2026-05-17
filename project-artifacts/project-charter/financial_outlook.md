@@ -1,5 +1,5 @@
-# 8. Financial Outlook: Scalable Path to Break-Even
+# 8. Financial Outlook: Scalable B2C/B2B2C Growth
 
-*   **Year 1 Investment:** $1.55M USD (Engineering, Infrastructure, UX, Legal, Marketing).
-*   **Projected Break-even:** Month 18 post-launch based on current SaaS subscription projections.
-*   **Success Metrics:** 100% P0 features delivered, zero critical security vulnerabilities, 99.9% uptime.
+*   **Year 1 Investment:** $1.2M USD (Data Science, Dash Engineering, UX, Marketing).
+*   **Projected Break-even:** Month 14 post-launch based on premium "Predictive Pro" subscriptions.
+*   **Success Metrics:** 90% prediction accuracy, 100k active users, 4.5+ star rating.

@@ -1,3 +1,3 @@
 # GCA Product Vision
 
-To establish the world's most intelligent, integrated, and sustainable golf course management platform, empowering facilities and players with data-driven insights that redefine the golfing experience and ensure long-term industry viability.
+To be the definitive global platform for predictive player performance, empowering the golfing community with the "Predictive Edge" through seamless data integration, advanced forecasting, and world-class visualization.
