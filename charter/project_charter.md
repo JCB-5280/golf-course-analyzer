@@ -1,70 +1,69 @@
-# GCA Project Charter: Maximizing Facility Value Through Integrated Intelligence
+# GCA Project Charter: Predictive Player Analytics Platform
 
-## 1. Executive Summary: GCA Delivers 15-20% ROI by Unifying SILOED Operations
-The Golf Course Analyzer (GCA) is a strategic initiative to deploy a cloud-native "Operating System" for the modern golf course. By integrating fragmented operational tools with AI, IoT, and remote sensing, GCA transforms traditional facilities into data-driven, high-efficiency enterprises.
+## 1. Executive Summary: GCA Democratizes Pro-Level Performance Through AI
+The Golf Course Analyzer (GCA) is a strategic initiative to deploy a high-accuracy, predictive analytics platform for individual golfers and coaches. By integrating user-driven data uploads with Google TimesFM forecasting and Plotly Dash visualizations, GCA transforms raw statistics into actionable performance trajectories, giving every golfer a "Predictive Edge."
 
-## 2. Strategic Objectives: Driving Profitability and Sustainability
-*   **Rapid Market Entry:** Deliver a high-impact MVP (Operations + Analytics) within 180 days to capture early-mover advantage.
-*   **Operational Alpha:** Enable facility managers to increase tee-time utilization by 15-20% through dynamic pricing and intelligent inventory management.
-*   **Resource Efficiency:** Realize a 10-15% reduction in water and chemical costs, proving that sustainability is a primary driver of profitability.
-*   **Scalable Growth:** Establish a platform capable of supporting 500+ facilities within 24 months, maintaining 99.9% uptime and SOC2 security integrity.
+## 2. Strategic Objectives: Driving Performance and Adoption
+*   **Predictive Accuracy:** Deliver a forecasting engine (TimesFM) that achieves >90% accuracy in handicap and scoring trend predictions within the first 180 days.
+*   **Rapid Adoption:** Capture 50,000+ active players within the first 12 months through a frictionless, Dash-powered user experience.
+*   **Coach Integration:** Establish GCA as the primary data platform for 500+ performance coaches, driving student improvement through objective data.
+*   **Scalable Intelligence:** Build a data pipeline capable of processing 10M+ round uploads annually with automated quality checks.
 
-## 3. Key Results (KRs): Measuring Impact Across the Value Chain
-*   **KR1 (Core Efficiency):** 100% completion and SOC2 Type 1 audit of the Core Management module by Q3 2026.
-*   **KR2 (Data Integration):** Real-time visualization of satellite and IoT feeds across 3 premier pilot sites by Q4 2026.
-*   **KR3 (User Adoption):** Launch GCA Mobile Beta; achieve 4.5+ star rating with 1,000+ active players by Jan 2027.
-*   **KR4 (Sustainability ROI):** Documented 10-15% water savings at 100% of pilot facilities by Feb 2027.
+## 3. Key Results (KRs): Measuring Impact Across the Player Journey
+*   **KR1 (Forecasting Alpha):** 100% completion of the TimesFM integration with verified <5% variance in predicted vs. actual handicap trends by Q3 2026.
+*   **KR2 (Interface Excellence):** Launch the Dash-powered Stat Submission UI; achieve a 70% "completion rate" for manual data entry by Q4 2026.
+*   **KR3 (Mobile Integration):** Deploy GCA Dash components via mobile wrappers; achieve 4.5+ star rating with 10,000+ active players by Jan 2027.
+*   **KR4 (Data Integrity):** Implement 100% automated quality checks on all data ingestions, reducing "garbage-in" data by 40% by Feb 2027.
 
-## 4. Scope: Focused on High-Value Digital Transformation
-### 4.1 In-Scope (Phase 1: The Core Value Drivers)
-*   **Revenue Management:** Real-time tee-sheets, dynamic pricing, and automated membership billing.
-*   **Operational Intelligence:** Predictive revenue modeling, course heatmaps, and player behavior trends.
-*   **Agronomic Precision:** IoT soil sensor integration, satellite-based NDVI mapping, and chemical logging.
-*   **Player Performance:** Computer-vision swing analysis and GPS-based shot mapping.
-*   **Enterprise Security:** Role-based access control (RBAC) and end-to-end encryption.
+## 4. Scope: Focused on Predictive Intelligence and Visualization
+### 4.1 In-Scope (Phase 1: The Predictive Core)
+*   **Stat Submission Engine:** Dash-powered UI for rapid manual entry and CSV/API-based data uploads.
+*   **Predictive Modeling:** TimesFM-driven performance forecasting (Handicap, GIR, Scoring Consistency).
+*   **Interactive Dashboards:** Strategic heatmaps, dispersion charts, and performance trends using Plotly.
+*   **Data Integrity Layer:** Automated validation and anomaly detection for user-uploaded data.
+*   **Mobile-First Design:** Responsive interfaces optimized for on-course and post-round review.
 
 ### 4.2 Out-of-Scope (Ensuring Strategic Focus)
-*   **Hardware Manufacturing:** We certify and partner with IoT leaders rather than build custom hardware.
-*   **Ancillary Management:** F&B kitchen management and on-site physical security (CCTV) are handled via deep integrations with existing providers.
+*   **Facility Management (ERP):** Tee-sheet management, booking, billing, and POS systems are removed to focus on player performance.
+*   **Hardware Manufacturing:** We focus on software analytics, integrating with existing GPS and sensor hardware via data uploads.
 
-## 5. Stakeholder Matrix: Aligning for Execution Excellence
+## 5. Stakeholder Matrix: Aligning for Performance Excellence
 | Role | Primary Responsibility | Success Driver |
 |---|---|---|
-| **Project Sponsor** | Strategic alignment and capital allocation. | Demonstrated ROI and market impact. |
-| **Product Manager (Prji)** | Roadmap strategy and cross-functional delivery. | On-time delivery of the 180-day MVP. |
-| **Lead Architect** | System design and technical performance. | 99.9% uptime and SOC2 compliance. |
-| **Dev Team** | Full-stack engineering and DevOps. | High sprint velocity and code quality. |
-| **UI/UX Designer** | User-centric interface design. | High user satisfaction and adoption scores. |
-| **Sustainability Consultant** | ESG validation and impact reporting. | Credibility and accuracy of resource savings. |
+| **Project Sponsor** | Strategic alignment and market positioning. | User growth and prediction accuracy. |
+| **Product Manager (Prji)** | Roadmap strategy and predictive feature delivery. | On-time delivery of the Dash/TimesFM MVP. |
+| **Data Scientist** | TimesFM model tuning and quality check logic. | Prediction accuracy and data integrity. |
+| **Lead Developer** | Dash interface architecture and mobile responsiveness. | UI performance and user adoption. |
+| **UI/UX Designer** | Player-centric interface design. | High completion rates for data entry. |
 
-## 6. Implementation Timeline: Aggressive 6-Month Path to Value
-### Phase 1: Design & Alignment (Months 1-2)
-*   **Goal:** Finalize functional specs and high-fidelity UX prototypes.
-*   **Milestone:** Board Approval of Technical Design.
+## 6. Implementation Timeline: Aggressive Path to Predictive Value
+### Phase 1: Predictive Design & Prototype (Months 1-2)
+*   **Goal:** Finalize TimesFM architecture and Dash UI prototypes.
+*   **Milestone:** Approved Data Quality & Forecasting Spec.
 
-### Phase 2: Core Engineering (Months 3-5)
-*   **Goal:** Build backend engine and Core Ops UI.
-*   **Milestone:** Internal Alpha Release.
+### Phase 2: Core Engine & UI Build (Months 3-5)
+*   **Goal:** Build the Stat Submission UI and the TimesFM forecast engine.
+*   **Milestone:** Internal Beta (Player Analytics Alpha).
 
-### Phase 3: Pilot Execution (Month 6)
-*   **Goal:** Deploy to 3 premier sites and initiate player beta.
-*   **Milestone:** Commercial Launch Readiness.
+### Phase 3: Market Launch & Scaling (Month 6)
+*   **Goal:** Launch to first 10,000 players and integrate coach feedback.
+*   **Milestone:** Global Launch Readiness.
 
-## 7. Governance & Risk Mitigation: Ensuring Rigor and Security
+## 7. Governance & Risk Mitigation: Ensuring Accuracy and Adoption
 ### 7.1 Governance Structure
-*   **Weekly Sprint Reviews:** Technical progress and obstacle removal.
-*   **Bi-Weekly Stakeholder Updates:** Strategic alignment and budget tracking.
-*   **Monthly Executive Steering Committee:** High-level vision and pivot decisions.
+*   **Weekly Performance Reviews:** Forecasting accuracy and UI engagement tracking.
+*   **Bi-Weekly Planning Squad Updates:** Strategic alignment and feature prioritization.
+*   **Monthly Predictive Steering Committee:** Long-term AI roadmap and pivot decisions.
 
 ### 7.2 Strategic Risk Management
 | Risk | Probability | Impact | Mitigation Strategy |
 |---|---|---|---|
-| **Integration Failure** | High | High | Early-stage API prototyping and dedicated integration engineers. |
-| **Low Market Adoption** | Medium | High | "Founding Partner" incentives and heavy focus on UX to reduce friction. |
-| **Data Privacy Breach** | Low | Critical | "Security by Design," regular penetration testing, and SOC2 audit from day one. |
-| **Technical Debt** | Medium | Medium | Rigid code review standards and mandatory 90% unit test coverage. |
+| **Data Quality Issues** | High | Critical | Rigorous automated quality checks and user feedback loops for anomalous data. |
+| **Low Adoption (Manual Entry)** | Medium | High | Heavy focus on Dash UI "Rapid Entry" UX and future automated hardware integrations. |
+| **Forecasting Inaccuracy** | Medium | High | Continuous TimesFM model training and data volume incentives for users. |
+| **Technical Complexity (Dash)** | Low | Medium | Use of standard component libraries and focus on modular design. |
 
-## 8. Financial Outlook: Scalable Path to Break-Even
-*   **Year 1 Investment:** $1.55M USD (Engineering, Infrastructure, UX, Legal, Marketing).
-*   **Projected Break-even:** Month 18 post-launch based on current SaaS subscription projections.
-*   **Success Metrics:** 100% P0 features delivered, zero critical security vulnerabilities, 99.9% uptime.
+## 8. Financial Outlook: Scalable B2C/B2B2C Growth
+*   **Year 1 Investment:** $1.2M USD (Data Science, Dash Engineering, UX, Marketing).
+*   **Projected Break-even:** Month 14 post-launch based on premium "Predictive Pro" subscriptions.
+*   **Success Metrics:** 90% prediction accuracy, 100k active users, 4.5+ star rating.
