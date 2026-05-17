@@ -4,13 +4,14 @@ This directory contains the foundational governance and vision documents for the
 
 ## Package Contents
 
-1.  **[Product Vision](product_vision.md):** Defines the long-term aspirations, mission, and core values of the GCA platform. It outlines who we are building for and what we aim to achieve in the next 24 months.
-2.  **[Project Charter](project_charter.md):** Provides the formal authorization for the project. It details the project objectives, key results, scope, stakeholders, timeline, and risk management strategy.
+1.  **[Executive Presentation](GCA_Charter_Package_Presentation.md):** A 20-slide strategic presentation designed for high-level stakeholders, covering the value proposition, market opportunity, and execution roadmap.
+2.  **[Product Vision](product_vision.md):** Defines the long-term aspirations, mission, and core values of the GCA platform. It outlines the strategic context, detailed personas, and 24-month success metrics.
+3.  **[Project Charter](project_charter.md):** Provides the formal authorization for the project. It details the strategic objectives, measurable KRs, stakeholder matrix, implementation timeline, and risk mitigation framework.
 
 ## Strategic Alignment
-This charter package is built upon the findings from the initial discovery phase (located in the `/discovery` directory). It synthesizes market trends, competitive analysis, and core requirements into a cohesive plan for the implementation of a world-class golf management solution.
+This charter package is built upon the findings from the initial discovery phase (located in the `/discovery` directory). It synthesizes market trends, competitive analysis, and core requirements into a cohesive plan for the implementation of a world-class, data-driven, and sustainable golf management solution.
 
 ---
-**Version:** 1.0
-**Status:** Draft for Review
-**Owner:** Prji (Product Manager)
+**Version:** 1.2
+**Status:** Final for Stakeholder Approval
+**Owner:** Prji (Senior Product Manager)
