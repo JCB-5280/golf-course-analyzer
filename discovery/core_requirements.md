@@ -1,14 +1,13 @@
-# Core Functional Requirements
+# Core Functional Requirements: Predictive Player Analytics
 
-| Category | Feature | Rationale / Competitor Reference |
+| Category | Feature | Rationale / Strategic Reference |
 |---|---|---|
-| **Scheduling \u0026 Tee‑Time** | Real‑time booking, dynamic pricing, wait‑list, cancellation \u0026 reschedule | Modern enterprise systems like *Hole-in-One* and *Arccos* provide these; found in *SoftwareAdvice* review (Jun‑2026) |
-| **Membership \u0026 Billing** | Online payments, tiered memberships, auto‑renew, POS integration | Presented by *ClubOps* (Feb‑2026) – back‑office seen as priority for ROI |
-| **Analytics Dashboard** | KPI tracking (Tee‑time fill, revenue per hole, green fees per player), trend charts, forecast modeling | Competitors such as *SmartCourse* showcases dashboards; AI forecasts widely cited in *TechRadar* 2026 review |
-| **Turf \u0026 Maintenance Analytics** | Multispectral satellite imagery, irrigation optimization, disease prediction, work‑order generation | *SmartCourse* and *SkimTurf* demonstrate AI‑powered turf health; *Groundsense* uses satellite data for irrigation |
-| **Player Performance** | Swing‑analytics app integration, shot‑map, club‑speed, skill‑gap analysis | *Sportsbox AI*, *Arccos*, *Swingsight* – AI swing analyzers dominate in 2026 reviews |
-| **Sustainability \u0026 ESG** | Water‑usage dashboard, energy consumption, carbon footprint calculator, eco‑metrics | USGA sustainability initiatives (2024) \u0026 reporting tools; *ClubAndResortBusiness* lists ESG awards – industry trend |
-| **Mobile \u0026 Front‑End** | iOS/Android native app + responsive web – for members, pro‑shops, staff | Near‑universal requirement; Chrome‑enhanced pages on *SwoopGolf* 2026 review |
-| **API \u0026 Integrations** | REST/GraphQL API, Zapier connectors, plugin SDK | Required for data‑exchange with booking sites, payment gateways |
-| **Security \u0026 Compliance** | GDPR/CCPA, role‑based access, audit logs, PCI‑compliance for billing | Standard in all comparative reviews |
-
+| **Stat Submission UI** | High-interactivity, **Plotly Dash**-powered interface for rapid manual entry and CSV/File uploads. | User ownership of data cadence; mobile-responsive design for post-round entry. |
+| **Predictive Engine** | **Google TimesFM** integration for high-accuracy time-series forecasting (Handicap, Scoring trends). | Pivot from historical tracking to predictive performance modeling. |
+| **Strategic Modeling** | Hole-by-hole dispersion heatmaps, strategic risk/reward charts, and scoring consistency visualizations. | Delivering pro-level strategic insights to amateur golfers. |
+| **Data Integrity Layer** | Automated ingestion quality checks (Outlier detection, data validation, sanitization). | Ensuring high-integrity forecasts by eliminating "garbage-in" data. |
+| **Performance Dashboards** | Trend charts for Strokes Gained, GIR, and Putts per Round; comparative peer benchmarking. | Dash-powered interactivity for deep-dive performance exploration. |
+| **Coach Collaboration** | Multi-player monitoring for coaches; objective student improvement validation via predictive trends. | Establishing GCA as the primary data platform for instructors. |
+| **Mobile Integration** | Dash components deployed via mobile wrappers (iOS/Android) for on-course strategic review. | Responsive, sub-second performance on mobile devices. |
+| **API & Integrations** | REST API for data ingestion from 3rd-party hardware (GPS/Launch monitors). | Enabling ecosystem-wide data connectivity. |
+| **Security & Privacy** | Player-owned data controls, role-based access for coaches, encrypted storage. | Maintaining player trust and data sovereignty. |
